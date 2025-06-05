@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# dotenv environment variable files
+.env
+*.env
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Mac OS files
+.DS_Store
+
+# PDF or large local data files
+*.pdf
+
+# LangChain cache or temporary storage
+*.db
+cache/
+
+# Output or result files
+output/
+results/
+
+# MyPy or Pylint cache
+.mypy_cache/
+.pytest_cache/
